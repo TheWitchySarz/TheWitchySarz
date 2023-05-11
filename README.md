@@ -1,9 +1,17 @@
 <h1> 👋🏻 Hi, I'm Annalea! 👋🏻<br/>✨<a href=https://github.com/AnnaleaLayton>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional</a>!✨
 
 <h2>👩🏻‍💻 Cybersecurity Projects (2023)</h2>
+Completed Projects:
 
 - <b>PowerShell</b>
   - [Active Directory Lab](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
+
+Future Projects:
+- <b>Uploade and Map CompTIA/Google practice material (When certs aquared)</b>
+- <b>Seting up a SIEM in Azure (With Alerts Microsoft docs)</b>
+- <b>Create a File Integrity Monitor</b>
+- <b>Create a Vulnerability Management Lab</b>
+- <b>Build a Simple REST API</b>
 
 
 
