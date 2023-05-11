@@ -6,7 +6,7 @@
 <h2>📺 Certifications/Current & In Progress</h2>
 Completed:
 
-- [Foundations of Cybersecurity](https://coursera.org/share/423d867745d089abd9019b3c9eb44b5c) (Received: May 2023)
+- [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/FGSWR35D355R) (Received: May 2023)
 
 In Progress:
 
