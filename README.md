@@ -1,4 +1,4 @@
-<h1>Hi, I'm Annalea! <br/><a href=https://github.com/AnnaleaLayton>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional</a>!
+<h1> 👋🏻 Hi, I'm Annalea! 👋🏻<br/>✨<a href=https://github.com/AnnaleaLayton>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional</a>!✨
 
 <h2>👩🏻‍💻 Cybersecurity Projects (2023)</h2>
 
@@ -7,7 +7,7 @@
 
 
 
-<h2>📺 Certifications/Current & In Progress</h2>
+<h2>📜 Certifications/Current & In Progress</h2>
 Completed:
 
 - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/FGSWR35D355R) (Received: May 2023)
