@@ -1,10 +1,20 @@
 <h1>Hi, I'm Annalea! <br/><a href=https://github.com/AnnaleaLayton>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional</a>!
 
 <h2>👩🏻‍💻 Cybersecurity Projects (2023)</h2>
-**INPROGRESS***
+**SECTION INPROGRESS***
 
 <h2>📺 Certifications/Current & In Progress</h2>
-**INPROGRESS***
+Completed:
+
+- [Foundations of Cybersecurity](https://coursera.org/share/423d867745d089abd9019b3c9eb44b5c) (Received: May 2023)
+
+In Progress:
+
+  Expected completion: Summer 2023
+  
+- [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/#?modal_active=none)
+- [CompTIA Security+ Certifcation](https://www.comptia.org/certifications/security) 
+
 
 <h2> 🤳 Connect with me:</h2>
 
