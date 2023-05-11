@@ -13,7 +13,8 @@ In Progress:
   Expected completion: Summer 2023
   
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/#?modal_active=none)
-- [CompTIA Security+ Certifcation](https://www.comptia.org/certifications/security) 
+- [CompTIA Security+ Certification](https://www.comptia.org/certifications/security) 
+- [CompTIA A+ Certification](https://www.comptia.org/certifications/a)
 
 
 <h2> 🤳 Connect with me:</h2>
