@@ -8,7 +8,7 @@ Completed Projects:
 
 Future Projects:
 - <b>Uploade and Map CompTIA/Google practice material (When certs aquared)</b>
-- <b>Seting up a SIEM in Azure (With Alerts Microsoft docs)</b>
+- <b>Seting up a SIEM in Azure (With Alerts)</b>
 - <b>Create a File Integrity Monitor</b>
 - <b>Create a Vulnerability Management Lab</b>
 - <b>Build a Simple REST API</b>
