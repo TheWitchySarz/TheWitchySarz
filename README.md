@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻 Cybersecurity Projects (2023)</h2>
 **INPROGRESS***
 
-<h2>📺 Current Certifications/Current & In Progress</h2>
+<h2>📺 Certifications/Current & In Progress</h2>
 **INPROGRESS***
 
 <h2> 🤳 Connect with me:</h2>
