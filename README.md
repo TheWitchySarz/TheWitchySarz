@@ -1,4 +1,4 @@
-<h1>Hi, I'm Annalea! <br/><a href=https://github.com/AnnaleaLayton>Programer</a>, <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional</a>!
+<h1>Hi, I'm Annalea! <br/><a href=https://github.com/AnnaleaLayton>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional</a>!
 
 <h2>👩🏻‍💻 Cybersecurity Projects (2023)</h2>
 **INPROGRESS***
