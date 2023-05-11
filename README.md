@@ -1,7 +1,11 @@
 <h1>Hi, I'm Annalea! <br/><a href=https://github.com/AnnaleaLayton>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional</a>!
 
 <h2>👩🏻‍💻 Cybersecurity Projects (2023)</h2>
-**SECTION INPROGRESS***
+
+- <b>PowerShell</b>
+  - [Active Directory Lab](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
+
+
 
 <h2>📺 Certifications/Current & In Progress</h2>
 Completed:
