@@ -28,12 +28,18 @@ In Progress:
 - [CompTIA Security+ Certification](https://www.comptia.org/certifications/security) 
 - [CompTIA A+ Certification](https://www.comptia.org/certifications/a)
 
+<p align="center">
+ <br/>
+<img src="https://user-images.githubusercontent.com/117225197/236188856-13053525-9008-4a47-a7d8-09d447e1a9ee.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/annalea-layton
+
+
 
 <!--
 **annalealayton/annalealayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
