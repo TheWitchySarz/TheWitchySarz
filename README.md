@@ -30,7 +30,7 @@ In Progress:
 
 <p align="center">
  <br/>
-<img src="https://user-images.githubusercontent.com/117225197/236188856-13053525-9008-4a47-a7d8-09d447e1a9ee.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <h2> 🤳 Connect with me:</h2>
