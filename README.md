@@ -7,7 +7,7 @@ Completed Projects:
   - [Active Directory Lab](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
 
 Future Projects:
-- <b>SPLUNK Course upload - and Certs</b>
+- <b>SPLUNK - Add to current Home lab setup, run tests & aquare certs</b>
 - <b>Uploade and Map CompTIA/Google practice material (When certs aquared)</b>
 - <b>Seting up a SIEM in Azure (With Alerts)</b>
 - <b>Create a File Integrity Monitor</b>
