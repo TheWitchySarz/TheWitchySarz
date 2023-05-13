@@ -7,11 +7,10 @@ Completed Projects:
   - [Active Directory Lab with Powershell ✅](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
 
 Future Projects:
-- <b>Add file alert system in Home Lab (HighPriority)</b>
 - <b>SPLUNK - Add to current Home lab setup, run tests & aquare certs</b>
 - <b>Uploade and Map CompTIA/Google practice material (When certs aquared)</b>
 - <b>Seting up a SIEM in Azure (With Alerts)</b>
-- <b>Create a File Integrity Monitor</b>
+- <b>Create a File Integrity Monitor (High Priority)‼️</b>
 - <b>Create a Vulnerability Management Lab</b>
 - <b>Build a Simple REST API</b>
 
