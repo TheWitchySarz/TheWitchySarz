@@ -3,10 +3,11 @@
 <h2>👩🏻‍💻 Cybersecurity Projects (2023)</h2>
 Completed Projects:
 
-- <b>PowerShell</b>
-  - [Active Directory Lab](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
+
+  - [Active Directory Lab with Powershell ✅](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
 
 Future Projects:
+- <b>Add file alert system in Home Lab (HighPriority)</b>
 - <b>SPLUNK - Add to current Home lab setup, run tests & aquare certs</b>
 - <b>Uploade and Map CompTIA/Google practice material (When certs aquared)</b>
 - <b>Seting up a SIEM in Azure (With Alerts)</b>
@@ -31,10 +32,11 @@ In Progress:
 
 <p align="center">
  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgtr.ee/images/2023/05/12/lun9b.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-<h2> 🤳 Connect with me:</h2>
+<!--
+<h2> 🤳 Connect with me:</h2>##
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
