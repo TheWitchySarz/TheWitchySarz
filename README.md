@@ -1,33 +1,38 @@
 <h1> 👋🏻 Hi, I'm Annalea! 👋🏻<br/>✨<a href=https://github.com/AnnaleaLayton>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional</a>!✨
 
 <h2>👩🏻‍💻 Cybersecurity Projects (2023)</h2>
-Completed Projects:
+<b>Completed Projects:</b>
 
 
   - [Active Directory Lab with Powershell ✅](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
 
-Future Projects:
-- <b>SPLUNK - Add to current Home lab setup, run tests & aquare certs</b>
-- <b>Uploade and Map CompTIA/Google practice material (When certs aquared)</b>
-- <b>Seting up a SIEM in Azure (With Alerts)</b>
-- <b>Create a File Integrity Monitor (High Priority)‼️</b>
-- <b>Create a Vulnerability Management Lab</b>
-- <b>Build a Simple REST API</b>
+<b>Future Projects:</b>
+- SPLUNK - Add to current Home lab setup, run tests & aquare certs
+- Uploade and Map CompTIA/Google practice material (When certs aquared)
+- Seting up a SIEM in Azure (With Alerts)
+- Create a File Integrity Monitor (High Priority)‼️
+- Create a Vulnerability Management Lab
+- Build a Simple REST API
 
 
 
 <h2>📜 Certifications/Current & In Progress</h2>
-Completed:
+<b>Completed:</b>
 
 - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/FGSWR35D355R) (Received: May 2023)
 
-In Progress:
+<b>In Progress:</b>
 
-  Expected completion: Summer 2023
+  <b>Expected completion: Summer 2023</b>
   
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/#?modal_active=none)
 - [CompTIA Security+ Certification](https://www.comptia.org/certifications/security) 
 - [CompTIA A+ Certification](https://www.comptia.org/certifications/a)
+
+<b>Other Completed Class/Certifications:</b>
+- [Repository - Other Certs](https://github.com/AnnaleaLayton/Other-Certs)
+
+<h2>🤳🏻AI GENERATED PICTURE</h2>
 
 <p align="center">
  <br/>
