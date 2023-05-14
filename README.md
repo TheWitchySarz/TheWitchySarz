@@ -15,6 +15,10 @@
 - Build a Simple REST API
 
 
+<h2>SKILLS</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=python,github,gitlab,git,java,html,linux,mysql,powershell,raspberrypi)](https://skillicons.dev)
+
 
 <h2>📜 Certifications/Current & In Progress</h2>
 <b>Completed:</b>
