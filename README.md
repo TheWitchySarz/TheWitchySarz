@@ -7,7 +7,7 @@
   - [Active Directory Lab with Powershell ✅](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
 
 <b>Future Projects:</b>
-- SPLUNK - aquare certs
+- SPLUNK> - aquare certs
 - Uploade and Map CompTIA/Google practice material 
 - Seting up a SIEM in Azure (With Alerts)
 - Create a File Integrity Monitor (High Priority)‼️
