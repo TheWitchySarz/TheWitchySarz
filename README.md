@@ -9,12 +9,12 @@
 
 <b>Currently Working Projects:⚒️</b>
 - [Seting up a SIEM in Azure (With Alerts)](https://github.com/AnnaleaLayton/SIEM-Azure)
+- [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
 
 <b>Future Projects:⚠️</b>
 - SPLUNK> - aquare certs 
 - Uploade and Map CompTIA/Google practice material 
 - Create a File Integrity Monitor (High Priority)‼️
-- Create a Vulnerability Management Lab
 - Build a Simple REST API
 
 
