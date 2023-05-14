@@ -7,8 +7,8 @@
   - [Active Directory Lab with Powershell ✅](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
 
 <b>Future Projects:</b>
-- SPLUNK - Add to current Home lab setup, run tests & aquare certs
-- Uploade and Map CompTIA/Google practice material (When certs aquared)
+- SPLUNK - aquare certs
+- Uploade and Map CompTIA/Google practice material 
 - Seting up a SIEM in Azure (With Alerts)
 - Create a File Integrity Monitor (High Priority)‼️
 - Create a Vulnerability Management Lab
