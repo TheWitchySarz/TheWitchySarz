@@ -6,9 +6,9 @@
 
 
   - [Active Directory Lab with Powershell](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
+  - [Seting up a SIEM in Azure (With Alerts)](https://github.com/AnnaleaLayton/SIEM-Azure)
 
 <b>Currently Working Projects:⚒️</b>
-- [Seting up a SIEM in Azure (With Alerts)](https://github.com/AnnaleaLayton/SIEM-Azure)
 - [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
 
 <b>Future Projects:⚠️</b>
