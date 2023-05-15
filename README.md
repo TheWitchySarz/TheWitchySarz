@@ -10,12 +10,14 @@
 
 <b>Currently Working Projects:⚒️</b>
 - [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
+- [Create a File Integrity Monitor (High Priority)](https://github.com/AnnaleaLayton/file-integrity)
 
 <b>Future Projects:⚠️</b>
 - SPLUNK> - aquare certs 
 - Uploade and Map CompTIA/Google practice material 
-- Create a File Integrity Monitor (High Priority)‼️
 - Build a Simple REST API
+- Practice GIT language
+- Work on implementing open source code(secret 😶‍🌫️)
 
 
 <h2>SKILLS</h2>
