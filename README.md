@@ -18,6 +18,7 @@
 - Build a Simple REST API
 - Practice GIT language
 - Work on implementing open source code(secret 😶‍🌫️)
+- Kali Linux home lab (pentesting)
 
 
 <h2>SKILLS</h2>
