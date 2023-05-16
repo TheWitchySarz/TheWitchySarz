@@ -7,13 +7,14 @@
 
   - [Active Directory Lab with Powershell](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
   - [Seting up a SIEM in Azure (With Alerts)](https://github.com/AnnaleaLayton/SIEM-Azure)
+  - [Google Certification Projects](https://github.com/AnnaleaLayton/Secuirty-Aduit)
 
 <b>Currently Working Projects:⚒️</b>
 - [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
 - [Create a File Integrity Monitor (High Priority)](https://github.com/AnnaleaLayton/file-integrity)
 
 <b>Future Projects:⚠️</b>
-- SPLUNK> - aquare certs 
+- SPLUNK> Enterprise - aquare certs 
 - Uploade and Map CompTIA/Google practice material 
 - Build a Simple REST API
 - Practice GIT language
