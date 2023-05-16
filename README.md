@@ -24,7 +24,7 @@
 
 <h2>SKILLS</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,github,gitlab,git,java,html,linux,mysql,powershell,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,github,gitlab,git,java,html,linux,mysql,powershell,raspberrypi)](https://skillicons.dev)
 
 
 <h2>📜 Certifications/Current & In Progress</h2>
