@@ -20,6 +20,7 @@
 - Practice GIT language
 - Work on implementing open source code(secret 😶‍🌫️)
 - Kali Linux home lab (pentesting)
+- Run Digital Forensics Simulation (Tcpdump,wireshark,autopsy)
 
 
 <h2>SKILLS</h2>
