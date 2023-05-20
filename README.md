@@ -32,8 +32,7 @@
 
 <h2>📜 Certifications/Current & In Progress</h2>
 <b>Completed:</b>
-
-- [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/FGSWR35D355R) (Received: May 2023)
+![google-cybersecurity-certificate](https://github.com/AnnaleaLayton/AnnaleaLayton/assets/133062663/ffb71a5e-a02e-4d54-b94a-f52d90c0cddb)
 
 <b>In Progress:</b>
 
