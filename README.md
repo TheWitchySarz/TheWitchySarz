@@ -32,7 +32,7 @@
 
 <h2>📜 Certifications/Current & In Progress</h2>
 <b>Completed:</b>
-![google-cybersecurity-certificate](https://github.com/AnnaleaLayton/AnnaleaLayton/assets/133062663/ffb71a5e-a02e-4d54-b94a-f52d90c0cddb)
+[google-cybersecurity-certificate](https://github.com/AnnaleaLayton/AnnaleaLayton/assets/133062663/ffb71a5e-a02e-4d54-b94a-f52d90c0cddb)
 
 <b>In Progress:</b>
 
