@@ -41,14 +41,14 @@
 
   <b>Expected completion: Summer 2023</b>
   
-1: Google CyberSecurity Certification (Fundamental program) Completed
-2: Google IT Support certification Completed
-3: Comptia sec+ June 1st
-4: ISC.org CC June 3rd
-5: CompTIA A+ June 2023
-6: Comptia Network+ July 2023
-7: eLearnSecurity Junior Penetration Tester (eJPT) August 2023
-8: CISSP (Maybe) - can be switched with anything else depending on own career path. 
+- 1: Google CyberSecurity Certification Completed May 2023
+- 2: Google IT Support certification Completed May 2023
+- 3: Comptia sec+ June 1st
+- 4: ISC.org CC June 3rd
+- 5: CompTIA A+ June 2023
+- 6: Comptia Network+ July 2023
+- 7: eLearnSecurity Junior Penetration Tester (eJPT) August 2023
+- 8: CISSP (Maybe) - can be switched with anything else depending on own career path. 
 
 <b>Other Completed Class/Certifications:</b>
 - [Repository - Other Certs](https://github.com/AnnaleaLayton/Other-Certs)
