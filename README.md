@@ -36,9 +36,6 @@
 
 [Google Cybersecurity Certification](https://github.com/AnnaleaLayton/AnnaleaLayton/files/11521349/Google.Cybersecurity.pdf)
 
-
-<b>In Progress:</b>
-
   <b>Expected completion: Summer 2023</b>
   
 - 1: Google CyberSecurity Certification Completed May 2023
