@@ -15,6 +15,7 @@
 - [Update a file through a Python algorithm!](https://github.com/AnnaleaLayton/Python-Algorithm/tree/main)
 - [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
 - [Create a File Integrity Monitor (High Priority)](https://github.com/AnnaleaLayton/file-integrity)
+- [Mapping setup for Digital Forensics Simulation](https://github.com/AnnaleaLayton/Digital-Forensics)
 - SPLUNK> Enterprise - aquare certs
 
 
