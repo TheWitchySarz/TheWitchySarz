@@ -1,5 +1,10 @@
 <h1> 👋🏻 Hi, I'm Annalea! 👋🏻<br/>✨<a href=https://github.com/AnnaleaLayton/AnnaleaLayton/blob/main/Resume-Annalea-Layton.pdf>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional #blueteam</a>!✨
+<h2>SKILLS</h2>
+                                             
+                                             
+[![My Skills](https://skillicons.dev/icons?i=bash,python,github,gitlab,git,java,html,linux,mysql,powershell,raspberrypi)](https://skillicons.dev)
 
+Bash  | Python  | Github | GitLab | Git | Java | Html | Linux | Mysql | Powershell | Rasberrypi...
 <h2>👩🏻‍💻 Cybersecurity Projects </h2>
 
 <b>Completed Projects:✅</b>
@@ -26,11 +31,6 @@
 - Practice GIT language
 - Work on implementing open source code(secret 😶‍🌫️)
 - Kali Linux home lab (pentesting)
-
-
-<h2>SKILLS</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=bash,python,github,gitlab,git,java,html,linux,mysql,powershell,raspberrypi)](https://skillicons.dev)
 
 
 <h2>📜 Certifications/Current & In Progress</h2>
