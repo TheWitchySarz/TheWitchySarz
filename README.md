@@ -4,7 +4,7 @@
                                              
 [![My Skills](https://skillicons.dev/icons?i=bash,python,github,gitlab,git,java,html,linux,mysql,powershell,raspberrypi)](https://skillicons.dev)
 
-Bash  | Python  | Github | GitLab | Git | Java | Html | Linux | Mysql | Powershell | Rasberrypi...
+ Bash  | Python  | Github | GitLab | Git | Java | Html | Linux | Mysql | Powershell | Rasberrypi...
 <h2>👩🏻‍💻 Cybersecurity Projects </h2>
 
 <b>Completed Projects:✅</b>
