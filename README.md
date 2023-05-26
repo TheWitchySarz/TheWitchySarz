@@ -19,7 +19,6 @@
 
 <b>Future Projects:⚠️</b>
 - Machine Learning in CS - Project
-- SPLUNK> Enterprise - aquare certs 
 - Uploade and Map CompTIA/Google practice material 
 - Build a Simple REST API
 - Practice GIT language
