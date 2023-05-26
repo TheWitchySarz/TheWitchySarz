@@ -8,10 +8,11 @@
   - [Active Directory Lab with Powershell](https://github.com/AnnaleaLayton/ActiveDirectoryLab#readme)
   - [Seting up a SIEM in Azure (With Alerts)](https://github.com/AnnaleaLayton/SIEM-Azure)
   - [Google Certification Projects](https://github.com/AnnaleaLayton/Secuirty-Aduit)
-  - [Update a file through a Python algorithm!](https://github.com/AnnaleaLayton/Python-Algorithm/tree/main)
+
 
 
 <b>Currently Working Projects:⚒️</b>
+- [Update a file through a Python algorithm!](https://github.com/AnnaleaLayton/Python-Algorithm/tree/main)
 - [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
 - [Create a File Integrity Monitor (High Priority)](https://github.com/AnnaleaLayton/file-integrity)
 - SPLUNK> Enterprise - aquare certs
