@@ -14,6 +14,8 @@
 <b>Currently Working Projects:⚒️</b>
 - [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
 - [Create a File Integrity Monitor (High Priority)](https://github.com/AnnaleaLayton/file-integrity)
+- SPLUNK> Enterprise - aquare certs
+
 
 <b>Future Projects:⚠️</b>
 - Machine Learning in CS - Project
