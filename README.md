@@ -30,6 +30,7 @@
 - Practice GIT language
 - Work on implementing open source code(secret 😶‍🌫️)
 - Kali Linux home lab (pentesting)
+- Turn a Apple TV into desktop (New ports, new hardware, implementation)
 
 
 <h2>📜 Certifications/Current & In Progress</h2>
