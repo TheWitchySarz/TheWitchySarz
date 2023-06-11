@@ -6,8 +6,7 @@
 
  Bash  | Python  | Github | GitLab | Git | Java | Html | Linux | Mysql | Powershell | Rasberrypi...
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annalealayton)](https://github.com/anuraghazra/github-readme-stats)
+[![Annalea's GitHub stats](https://github-readme-stats.vercel.app/api?username=annalealayton&show_icons=true&theme=transparent)](https://github.com/AnnaleaLayton)
 
 <h2>👩🏻‍💻 Cybersecurity Projects </h2>
 
