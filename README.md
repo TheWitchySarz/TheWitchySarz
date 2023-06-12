@@ -38,6 +38,7 @@
 
 
 <b>Western Governors University(WGU) - Bachelors of Science Cybersecurity and Information Assurance</b>
+
 In Progress: Completion July 2024
 
 <h2>Certifications Included in degree:</h2>
