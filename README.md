@@ -6,8 +6,6 @@
 
  Bash  | Python  | Github | GitLab | Git | Java | Html | Linux | Mysql | Powershell | Rasberrypi...
 
-[![Annalea's GitHub stats](https://github-readme-stats.vercel.app/api?username=annalealayton&show_icons=true&theme=transparent)](https://github.com/AnnaleaLayton)
-
 <h2>👩🏻‍💻 Cybersecurity Projects </h2>
 
 <b>Completed Projects:✅</b>
@@ -36,25 +34,42 @@
 - Turn a Apple TV into desktop (New ports, new hardware, implementation)
 
 
-<h2>📜 Certifications/Current & In Progress</h2>
+<h2>📜 Degree/Certifications</h2>
+
+
+<b>Western Governors University(WGU) - Bachelors of Science Cybersecurity and Information Assurance</b>
+In Progress: Completion July 2024
+
+<h2>Certifications Included in degree:</h2>
+
+<b>CompTIA</b>
+
+- A+ 
+- Network+ 
+- Security+ 
+- Project+ 
+- CySA+
+- Network Vulnerability Assessment Professional
+- Network Security Professional
+- Security Analytics Professional
+- PenTest+
+- IT Operations Specialist
+- Secure Infrastructure Specialist
+- ITIL®*^ Foundation Certification
+
+<b>LPI Institue</b>
+- LPI Linux Essentials
+
+$ISC^2$
+- Cerfied Cybersecurity Professional (CC)
+- Certified Cloud Security Professional (CCSP)
+- Certified Cloud Security Professional (CCSP)
+
 <b>Completed:</b>
 
+[Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/145121850)
+
 [Google Cybersecurity Certification](https://github.com/AnnaleaLayton/AnnaleaLayton/files/11521349/Google.Cybersecurity.pdf)
-
-  <b>Expected completion: Summer 2023</b>
-  
-- 1: Google CyberSecurity Certification Completed May 2023
-- 2: Google IT Support certification Completed May 2023
-- 3: Blue Team Junior Analyst 
-- 4: Comptia sec+ June 1st
-- 5: ISC.org CC June 3rd
-- 6: CompTIA A+ June 2023
-- 7: Comptia Network+ July 2023
-- 8: eLearnSecurity Junior Penetration Tester (eJPT) August 2023
-- 9: CISSP (Maybe) - can be switched with anything else depending on own career path. 
-
-<b>Other Completed Class/Certifications:</b>
-- [Repository - Other Certs](https://github.com/AnnaleaLayton/Other-Certs)
 
 <h2>🤳🏻AI GENERATED PICTURE</h2>
 
