@@ -41,6 +41,8 @@
 
 In Progress: Completion July 2024
 
+[<b>Ethical Hacker Academy SOC Analyst Certifcate</b>](https://ethicalhackersacademy.com/collections/ethical-hackers-academy/products/soc-analyst-intrusion-training)
+
 <h2>Certifications Included in degree:</h2>
 
 <b>CompTIA</b>
