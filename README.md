@@ -72,17 +72,10 @@ $ISC^2$
 
 [Google Cybersecurity Certification](https://github.com/AnnaleaLayton/AnnaleaLayton/files/11521349/Google.Cybersecurity.pdf)
 
-<h2>🤳🏻AI GENERATED PICTURE</h2>
-
-<p align="center">
- <br/>
-<img src="https://imgtr.ee/images/2023/05/12/lun9b.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
 <!--
 <h2> 🤳 Connect with me:</h2>##
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AnnaleLayton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/annalea-layton
 
