@@ -22,7 +22,7 @@
 - [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
 - [Create a File Integrity Monitor (High Priority)](https://github.com/AnnaleaLayton/file-integrity)
 - [Mapping setup for Digital Forensics Simulation](https://github.com/AnnaleaLayton/Digital-Forensics)
-- [Kali Linux home lab (pentesting)](
+- [Kali Linux home lab]
 
 
 <b>Future Projects:⚠️</b>
