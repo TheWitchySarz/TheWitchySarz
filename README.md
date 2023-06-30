@@ -21,7 +21,6 @@
 - [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
 - [Create a File Integrity Monitor (High Priority)](https://github.com/AnnaleaLayton/file-integrity)
 - [Mapping setup for Digital Forensics Simulation](https://github.com/AnnaleaLayton/Digital-Forensics)
-- SPLUNK> Enterprise - aquare certs
 
 
 <b>Future Projects:⚠️</b>
@@ -32,6 +31,8 @@
 - Work on implementing open source code(secret 😶‍🌫️)
 - Kali Linux home lab (pentesting)
 - Turn a Apple TV into desktop (New ports, new hardware, implementation)
+- Build dream computer setup (documentation)
+- Build home server
 
 
 <h2>📜 Degree/Certifications</h2>
