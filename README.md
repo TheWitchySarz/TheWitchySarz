@@ -15,21 +15,20 @@
   - [Seting up a SIEM in Azure (With Alerts)](https://github.com/AnnaleaLayton/SIEM-Azure)
   - [Google Certification Projects](https://github.com/AnnaleaLayton/Secuirty-Aduit)
   - [Update a file through a Python algorithm!](https://github.com/AnnaleaLayton/Python-Algorithm/tree/main)
+  - [Learened GIT language for DevOPS]
 
 
 <b>Currently Working Projects:⚒️</b>
 - [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
 - [Create a File Integrity Monitor (High Priority)](https://github.com/AnnaleaLayton/file-integrity)
 - [Mapping setup for Digital Forensics Simulation](https://github.com/AnnaleaLayton/Digital-Forensics)
+- [Kali Linux home lab (pentesting)](
 
 
 <b>Future Projects:⚠️</b>
-- Machine Learning in CS - Project
-- Uploade and Map CompTIA/Google practice material 
+- Machine Learning in CS - Project 
 - Build a Simple REST API
-- Practice GIT language
 - Work on implementing open source code(secret 😶‍🌫️)
-- Kali Linux home lab (pentesting)
 - Turn a Apple TV into desktop (New ports, new hardware, implementation)
 - Build dream computer setup (documentation)
 - Build home server
