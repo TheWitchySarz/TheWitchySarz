@@ -19,10 +19,7 @@
 
 
 <b>Currently Working Projects:⚒️</b>
-- [Vulnerability Management Lab](https://github.com/AnnaleaLayton/Vulnerability-Management-Lab)
-- [Create a File Integrity Monitor (High Priority)](https://github.com/AnnaleaLayton/file-integrity)
-- [Mapping setup for Digital Forensics Simulation](https://github.com/AnnaleaLayton/Digital-Forensics)
-- [Kali Linux home lab]
+  -BUG HUNTING
 
 
 <b>Future Projects:⚠️</b>
@@ -38,10 +35,6 @@
 
 
 <b>Western Governors University(WGU) - Bachelors of Science Cybersecurity and Information Assurance</b>
-
-In Progress: Completion July 2024
-
-[<b>Ethical Hacker Academy SOC Analyst Certifcate</b>](https://ethicalhackersacademy.com/collections/ethical-hackers-academy/products/soc-analyst-intrusion-training)
 
 <h2>Certifications Included in degree:</h2>
 
@@ -67,8 +60,6 @@ $ISC^2$
 - Cerfied Cybersecurity Professional (CC)
 - Certified Cloud Security Professional (CCSP)
 - Certified Cloud Security Professional (CCSP)
-
-<b>Completed:</b>
 
 [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/145121850)
 
