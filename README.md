@@ -20,7 +20,7 @@
 
 <b>Currently Working Projects:⚒️</b>
 
-  - BUG HUNTING
+  - 🕷️BUG HUNTING🕷️
 
 
 <b>Future Projects:⚠️</b>
