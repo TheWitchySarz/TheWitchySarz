@@ -1,4 +1,4 @@
-<h1> 👋🏻 Hi, I'm Annalea! 👋🏻<br/>✨<a href=https://github.com/AnnaleaLayton/AnnaleaLayton/blob/main/Resume-Annalea-Layton.pdf>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional #blueteam</a>!✨
+<h1> 👋🏻 Hi, I'm Annalea! 👋🏻<br/>✨<a href=https://github.com/AnnaleaLayton/AnnaleaLayton/blob/main/Resume-Annalea-Layton.pdf>Programer</a> & <a href=https://www.linkedin.com/in/annalea-layton/>Cybersecurity Professional</a>!✨
 <h2>SKILLS</h2>
                                              
                                              
